@@ -27,8 +27,6 @@
 ### Socials
 
 <p align="left"> 
-  <a href="https://instagram.com/anaschlz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;
-  <a href="https://discord.com/users/anaschlz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>&nbsp;
 <a href="mailto:analu.schulz@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23ffffff?style=for-the-badge&logo=gmail&logoColor=ff0000" target="_blank"></a>&nbsp;
  <a href="https://www.linkedin.com/in/anaschlz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;</p>
